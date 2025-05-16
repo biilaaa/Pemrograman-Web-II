@@ -1,0 +1,370 @@
+CRITICAL - 2025-05-14 16:13:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 16:14:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil.php"
+[Method: GET, Route: profil]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 3 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 16:15:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:11:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:22:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:24:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:24:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:24:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:25:31 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "profi;"
+[Method: GET, Route: profi;]
+in SYSTEMPATH\Router\Router.php on line 741.
+ 1 SYSTEMPATH\Router\Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars('profi;')
+ 2 SYSTEMPATH\CodeIgniter.php(832): CodeIgniter\Router\Router->handle('profi;')
+ 3 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:25:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil.php"
+[Method: GET, Route: profil]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 3 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:26:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil.php"
+[Method: GET, Route: profil]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 3 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:28:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil.php"
+[Method: GET, Route: profil]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 3 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:28:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil.php"
+[Method: GET, Route: profil]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 3 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:32:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil.php"
+[Method: GET, Route: profil]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 3 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:32:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+[Method: GET, Route: beranda]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Home.php(20): view('beranda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->beranda()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:39:10 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:39:38 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:42:50 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:47:59 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:48:21 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:49:04 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:49:06 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:49:07 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:49:07 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:49:59 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 17:50:00 --> ErrorException: Undefined variable $profil
+[Method: GET, Route: profil]
+in APPPATH\Views\profil.php on line 12.
+ 1 APPPATH\Views\profil.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profil', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Views\\profil.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('profil', [], true)
+ 5 APPPATH\Controllers\Home.php(27): view('profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
+CRITICAL - 2025-05-14 18:52:39 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: profil]
+in APPPATH\Models\ProfilMhs.php on line 35.
+ 1 APPPATH\Models\ProfilMhs.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\app\\Models\\ProfilMhs.php', 35)
+ 2 APPPATH\Controllers\Home.php(28): App\Models\ProfilMhs->getById(1)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->profil()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\SEMESTER 4 APP\\XAMPP\\htdocs\\Pemrograman Web II\\Modul6\\public\\index.php')
